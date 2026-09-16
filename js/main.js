@@ -3,7 +3,7 @@
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-  const PHONE_NUMBER = '905516756624';
+  const PHONE_NUMBER = '905542314878';
 
   // 1. Mobil Menü Aç/Kapat (Üstten Dikey Akordeon Şeklinde Açılır, Asla Yandan Değil)
   const menuBtn = document.querySelector('.menu-toggle-btn');
